@@ -1,6 +1,6 @@
 spring:
   application:
-    name: mdm-company-conversion-id
+    name: mdm-company-conversion-api
   rabbitmq:
     host: localhost
     port: 5672
